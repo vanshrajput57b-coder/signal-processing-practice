@@ -4,10 +4,14 @@ This repository contains C programs created while learning and practicing basic 
 The goal is to build a strong foundation in digital signal processing using C programming, module by module.
 
 ##  Contents
-- **Moving Average Filter**  
- Smooths noisy data by averaging consecutive values.  
-- **Sampling a Sine Wave** *(coming soon)*   Demonstrates how continuous signals are converted into discrete samples.  
+- ## Contents
+- **Moving Average Filter** (Lecture 1)  
+  Smooths noisy data by averaging consecutive values.
+- **Sampling a Sine Wave** (Lecture 2)  
+  Demonstrates how continuous signals are converted into discrete samples.
+  
 - More filters and frequency domain analysis will be added as learning progresses.
+
 
 ##  How to Run
 1. Clone the repository:
